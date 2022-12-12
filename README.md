@@ -1,6 +1,6 @@
 # What's for dinner
 
-Menu generator
+Week's menus generator
 
 ## Prerequisites
 
